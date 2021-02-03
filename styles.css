@@ -1,0 +1,25 @@
+
+.profile {
+    width: 200px;
+}
+
+.dog {
+    width: 200px;
+}
+
+body {
+    background-color: #97c7f7;
+    font-family: 'Trispace', sans-serif;
+    background-image: url('https://img.buzzfeed.com/thumbnailer-prod-us-east-1/dc23cd051d2249a5903d25faf8eeee4c/BFV36537_CC2017_2IngredintDough4Ways-FB.jpg');
+}
+
+.secondary {
+    background-color: #c7f39b;
+    color: #a01313;
+    font-family: 'Syne Mono', monospace;
+}
+
+.tertiary {
+    font-family: 'Syne Mono', monospace;
+    color: #a01313;
+}
